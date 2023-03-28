@@ -1,8 +1,8 @@
 {
 	"name": "ionic-template",
 	"version": "1.0.0",
-	"author": "Gregory J Lopez",
-	"homepage": "https://iamgld.com",
+	"author": "Giuliana Cecchetto",
+	"homepage": "",
 	"scripts": {
 		"ng": "ng",
 		"start": "ng serve",
